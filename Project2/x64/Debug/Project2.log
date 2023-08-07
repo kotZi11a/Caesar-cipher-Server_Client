@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Project2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Client.cpp
+D:\OneDrive - Samara University\4 Семестр\ОС\Лабы\Laba4.1\Project2\Client.cpp(55,42): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+D:\OneDrive - Samara University\4 Семестр\ОС\Лабы\Laba4.1\Project2\Client.cpp(57,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Project2.vcxproj -> D:\OneDrive - Samara University\4 Семестр\ОС\Лабы\Laba4.1\x64\Debug\Client.exe
